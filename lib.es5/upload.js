@@ -32,7 +32,7 @@ var _base = require("./node/base64");
 
 var Base64 = _interopRequireWildcard(_base);
 
-var _storage = require("./node/storage");
+var _storage = require("./browser/storage");
 
 var Storage = _interopRequireWildcard(_storage);
 

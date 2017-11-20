@@ -5,7 +5,7 @@ var _upload = require("./upload");
 
 var _upload2 = _interopRequireDefault(_upload);
 
-var _storage = require("./node/storage");
+var _storage = require("./browser/storage");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
